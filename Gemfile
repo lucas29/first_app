@@ -3,7 +3,7 @@ ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.5'
+gem 'rails', '4.2.11.3'
 
 # Use sqlite3 as the database for Active Record
 group :development do
@@ -11,7 +11,7 @@ group :development do
 end
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '4.0.5'
+gem 'sass-rails', '6.0.0'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.7.2'
@@ -23,7 +23,7 @@ gem 'coffee-rails', '4.0.1'
 # gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails', '3.1.5'
+gem 'jquery-rails', '4.6.0'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks', '1.1.1'
